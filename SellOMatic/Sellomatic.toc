@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: SellOMatic
+## Version: 1.0
+## Author: Lazyloafs
+## SavedVariables: SellOMatic_Settings
+## Notes: Sells items based on quality selection. Type /sellomatic for configuration
+SellomaticBlacklist.lua
+Sellomatic.lua
+Sellomatic.xml
+
